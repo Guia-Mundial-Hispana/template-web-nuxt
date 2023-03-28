@@ -12,7 +12,8 @@ export default defineNuxtConfig({
     }
   },
   modules: [
-    'nuxt-icons'
+    'nuxt-icons',
+    'nuxt-viewport'
   ],
   postcss: {
     plugins: {
